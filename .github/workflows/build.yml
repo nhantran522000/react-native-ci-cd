@@ -131,4 +131,3 @@ jobs:
           name: ios-simulator-build
           path: ios/ios-simulator-build.zip
           retention-days: 30
-`
