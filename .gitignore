@@ -41,3 +41,8 @@ app-example
 # generated native folders
 /ios
 /android
+
+# Android signing
+*.keystore
+*.jks
+keystore_base64.txt
